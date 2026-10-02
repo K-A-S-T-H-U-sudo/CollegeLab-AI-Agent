@@ -341,6 +341,5 @@ Here is how to demonstrate the agent during an evaluation or college presentatio
    - Click **[ Export CSV Report ]** to generate a lab technician maintenance log.
     
 
-DEMO Video Link:
-
-[https://drive.google.com/file/d/18BxLhz2LIECzku398CkwxTOITR7EhdJW/view?usp=drivesdk](https://drive.google.com/file/d/1TQrM_KLp-HhNutEylpSbtArJOTHEqmbr/view?usp=drivesdk)
+DEMO Video 
+     https://drive.google.com/file/d/1vLJdI4SGuArnwYEyxLpRx24AAzQMfFBJ/view?usp=drivesdk   )
